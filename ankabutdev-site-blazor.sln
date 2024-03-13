@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6BCE7213-AD2C-44A4-BCCE-B492E3C4641F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ankabutdev-site-blazor", "src\ankabutdev-site-blazor\ankabutdev-site-blazor.csproj", "{A5EFC9C2-F524-45E3-AC86-B15DDB85E91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EFC9C2-F524-45E3-AC86-B15DDB85E91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EFC9C2-F524-45E3-AC86-B15DDB85E91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EFC9C2-F524-45E3-AC86-B15DDB85E91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EFC9C2-F524-45E3-AC86-B15DDB85E91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5EFC9C2-F524-45E3-AC86-B15DDB85E91D} = {6BCE7213-AD2C-44A4-BCCE-B492E3C4641F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDA3EB1-843A-4C6E-9787-0B879543B025}
+	EndGlobalSection
+EndGlobal
