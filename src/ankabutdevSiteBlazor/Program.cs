@@ -1,4 +1,4 @@
-using ankabutdev_site_blazor.Components;
+using ankabutdevSiteBlazor.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
